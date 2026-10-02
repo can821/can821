@@ -1,6 +1,6 @@
 # Can Yılmaz
 
-Web Designer & Front-End Developer building web applications and developer tools.
+Web Design& Front-End Developer building web applications and developer tools.
 
 BSc (Hons) Information Technology for Business student at Oxford Brookes University, UK.
 
