@@ -1,13 +1,13 @@
 # Can Yılmaz
 
-Web Designer & Front-End Developer based in the UK, developing my skills in software development.
+Web Designer & Front-End Developer building web applications and developer tools.
 
-**Education:** Oxford Brookes University — BSc (Hons) Information Technology for Business.
+BSc (Hons) Information Technology for Business student at Oxford Brookes University, UK.
 
-I work with HTML, CSS and JavaScript, and have experience with Python, Java, SQL/PostgreSQL and Git/GitHub. I am learning Node.js and Express through practical projects.
+**Technologies:** HTML, CSS, JavaScript, Node.js, Express, Python, Java, SQL, PostgreSQL, Git and GitHub.
 
-### Featured project
+### Selected work
 
-**[CanaryLineage](https://github.com/can821/CanaryLineage)** — a local Node.js/Express developer tool for tracing synthetic data through explicitly instrumented storage and HTTP boundaries, then comparing destinations across executions. Built with PostgreSQL and a plain JavaScript trace console.
+**[CanaryLineage](https://github.com/can821/CanaryLineage)** — Runtime synthetic-data lineage for instrumented Node.js applications, with PostgreSQL persistence, outbound HTTP tracing and execution comparison.
 
 [Portfolio](https://can-yilmaz.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/can-yilmaz-200594381)
